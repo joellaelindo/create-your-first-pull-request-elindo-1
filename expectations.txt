@@ -1,5 +1,5 @@
 NAME:   Joella L. Elindo
-SEC:    CMSC 100 C4L
+SECTION:    CMSC 100 C4L
 
 EXPECTATIONS:
 1. Classmates
