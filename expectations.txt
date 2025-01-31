@@ -1,0 +1,14 @@
+NAME:   Joella L. Elindo
+SEC:    CMSC 100 C4L
+
+EXPECTATIONS:
+1. Classmates
+    I expect my classmates to be collaborative and supportive with each other,
+    working together in learning the lessons.
+2. Instructor
+    I expect the instructor to be hands-on and approachable, especially during
+    laboratory hours.
+3. Course
+    I expect this course to give us a good overview on web programming, equipping
+    us the necessary tools and knowledge to understand and apply this skill.
+
