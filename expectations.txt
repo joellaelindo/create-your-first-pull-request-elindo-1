@@ -11,4 +11,12 @@ EXPECTATIONS:
 3. Course
     I expect this course to give us a good overview on web programming, equipping
     us the necessary tools and knowledge to understand and apply this skill.
+    
+    
+-- Message from the reviewer:
+
+Hello, Joella! Thank you for helping me for this exercise, this is my first time using git. 
+I hope we do well in this course. Good luck! :D
+
+From, Uno.
 
